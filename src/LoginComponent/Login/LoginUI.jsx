@@ -1,7 +1,7 @@
 import React from 'react'
 import './LoginUI.css'
 import './../../pages/font.css'
-import schlogo from './.././../assets/logo1.png'
+import schlogo from './.././../assets/logo1.PNG'
 import user from './.././../assets/user.png'
 import pswd from './.././../assets/pswd.png'
 import celebrate from './.././../assets/celebrate.jpg'
