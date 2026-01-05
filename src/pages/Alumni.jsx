@@ -1,7 +1,7 @@
 import React from 'react'
 import './Alumni.css'
 import './font.css'
-import logo from './../assets/logo1.png'
+import logo from './../assets/logo1.PNG'
 import first from './../assets/first.jpg'
 import second from './../assets/second.jpg'
 import third from './../assets/third.jpg'
