@@ -7,7 +7,7 @@ const HeroForm = () => {
     return (
         <div className="section-nav">
              <div>
-            <h1 className="section-nav-text"> Education Impact</h1>
+            <h1 className="section-nav-text"> Educations Impact</h1>
             <br/>
             </div>
 <div className="image-wrapper-serv">
