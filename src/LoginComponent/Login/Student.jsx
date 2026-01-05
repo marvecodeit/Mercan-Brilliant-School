@@ -1,7 +1,7 @@
 import React from 'react'
 import LoginUI from './LoginUI'
 import './Student.css'
-import pswd from './.././../assets/pswd.png'
+import pswd from './.././../assets/pswd.PNG'
 import user from './.././../assets/user.png'
 const Student = () => {
     return (
